@@ -10,3 +10,4 @@ Created using
 ### 6. ethereum-waffle version 4.0.10
 ### 7. ethers version 5.7.2
 ### 8. chai version 4.3.7
+### 8. typescript version 5.0.4
